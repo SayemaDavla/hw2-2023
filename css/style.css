@@ -80,14 +80,14 @@ main div{
 .green p{
     color:#ffffff;
 }
-  
+footer {
+    border: 5px solid #ffffff !important;
+    background:linear-gradient(90deg, #000000, #0000ff 25%, #0066ff 70%, #000000);
+}
 
 footer p{
     font-size: 20px;
     text-align: right;
     padding: 15px 15px 15px 0px;
 }
-footer {
-    background:linear-gradient(90deg, #000000, #0000ff 25%, #0066ff 70%, #000000);
-    border: 5px solid #ffffff;
-}
+
